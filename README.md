@@ -113,8 +113,11 @@ print(y_prednew)
 xnew = np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew = predict(theta,xnew)
 print(y_prednew)
+print("Name:Hashwatha M")
+print("Reg No:212223240051")
 ```
-![image](https://github.com/user-attachments/assets/099f4f97-fe2b-4257-b347-b3e9e848e0e0)
+![image](https://github.com/user-attachments/assets/f9db0f50-9ed0-4caf-82b0-44086f1822e1)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
