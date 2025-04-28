@@ -35,7 +35,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 13.Calculate and Display Accuracy
 
 14.Make Predictions on New Data Samples
-## Program // Output:
+## Program 
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
